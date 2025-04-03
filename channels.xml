@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tv.post.lu" lang="de" xmltv_id="RTL.de" site_id="7dd59d10-8093-11e9-b5ca-f345a2ed0fbe">RTL Television</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="M6.fr" site_id="08b13900-8097-11e9-b5ca-f345a2ed0fbe">M6</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="France2.fr" site_id="e10917b0-8096-11e9-b5ca-f345a2ed0fbe">France 2</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="France3.fr" site_id="eda6eba0-8096-11e9-b5ca-f345a2ed0fbe">France 3</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="France4.fr" site_id="f67e68c0-8096-11e9-b5ca-f345a2ed0fbe">France 4</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="France5.fr" site_id="ffb4a7b0-8096-11e9-b5ca-f345a2ed0fbe">France 5</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="Gulli.fr" site_id="054647f0-8692-11e9-a0f7-b16899773165">Gulli</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="MCM.fr" site_id="4d7e1df0-786d-11e9-b5ca-f345a2ed0fbe">MCM</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="MCMTop.fr" site_id="613a7460-786d-11e9-b5ca-f345a2ed0fbe">MCM Top</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="VOX.de" site_id="9cfb1800-8093-11e9-b5ca-f345a2ed0fbe">VOX</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="Voxup.de" site_id="8b259630-1410-11ea-934c-4323fc36d546">VOXup</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="automotorundsportchannel.de" site_id="da694da0-7199-11e9-a762-3be38d7f533c">Auto Motor Sport</channel>
+</channels>
