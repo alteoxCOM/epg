@@ -13,4 +13,7 @@
   <channel site="tv.post.lu" lang="de" xmltv_id="Voxup.de" site_id="8b259630-1410-11ea-934c-4323fc36d546">VOXup</channel>
   <channel site="tv.post.lu" lang="de" xmltv_id="automotorundsportchannel.de" site_id="da694da0-7199-11e9-a762-3be38d7f533c">Auto Motor Sport</channel>
   <channel site="tv.post.lu" lang="fr" xmltv_id="StingrayCMusic.ca" site_id="c234d8e0-8dae-11e9-ac99-079f5aa46735">STINGRAY cmusic</channel>
+  <channel site="rotana.net" lang="ar" xmltv_id="RotanaMusic.sa" site_id="444">روتانا موسيقي</channel>
+  <channel site="rotana.net" lang="ar" xmltv_id="RotanaAflam.sa" site_id="440">روتانا أفلام</channel>
+  <channel site="magticom.ge" lang="ru" xmltv_id="RTVi.ru" site_id="30">RTVI</channel>
 </channels>
