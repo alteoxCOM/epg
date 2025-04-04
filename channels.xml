@@ -129,4 +129,7 @@
   <channel site="meo.pt" lang="pt" xmltv_id="Canal11.pt" site_id="C11">11</channel>
   <channel site="pickx.be" lang="fr" xmltv_id="MuseumTVFrench.fr" site_id="UID2320">Museum TV</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="Tele5.pl" site_id="tele-5-352">Tele 5</channel>
+  <channel site="teliatv.ee" lang="ru" xmltv_id="EuronewsRussian.fr" site_id="ru#1286">Euronews Rus</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="AlJazeera.qa" site_id="14">Al Jazeera</channel>
+  <channel site="tvheute.at" lang="de" xmltv_id="Puls4.at" site_id="puls_4">PULS 4</channel>
 </channels>
