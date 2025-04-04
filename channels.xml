@@ -23,5 +23,111 @@
   <channel site="tv.post.lu" lang="de" xmltv_id="TOGGOplus.de" site_id="e64ca000-8093-11e9-b5ca-f345a2ed0fbe">TOGGO Plus</channel>
   <channel site="tv.post.lu" lang="en" xmltv_id="EuronewsGerman.fr" site_id="ac5ac6e0-809a-11e9-b5ca-f345a2ed0fbe">Euronews</channel>
   <channel site="tv.post.lu" lang="fr" xmltv_id="EuronewsFrench.fr" site_id="c5cee250-2904-11eb-953f-eb0eedf1f375">Euronews FR</channel>
-  <channel site="bein.com" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="entertainment#27">27</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299">Euronews</channel>
+  <channel site="plex.tv" lang="it" xmltv_id="EuronewsItalian.fr" site_id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789">Euronews Italiano</channel>
+  <channel site="plex.tv" lang="es" xmltv_id="EuronewsSpanish.fr" site_id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d">Euronews Español</channel>
+  <channel site="plex.tv" lang="pt" xmltv_id="EuronewsPortuguese.fr" site_id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9">Euronews Portuguese</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="639">TVE Internacional</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="24Horas.es" site_id="71">Canal 24 Horas</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="Clan.es" site_id="clan_tve">Clan TVE</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiNews24.it" site_id="rai-news-24">RAI NEWS 24</channel>
+  <channel site="melita.com" lang="en" xmltv_id="ducktv.sk" site_id="aeb3011d-9106-4621-b5e8-693dec45f33e">Duck TV</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="" site_id="6dfaf8f0-7011-11e9-a762-3be38d7f533c">FilmBox Arthouse HD</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="" site_id="8bb61900-7012-11e9-a762-3be38d7f533c">Gametoon</channel>
+   <channel site="tv.post.lu" lang="en" xmltv_id="" site_id="55690160-8d17-11e9-b2ae-334cebea47fb">FashionBox HD</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="" site_id="c62d8390-7010-11e9-a762-3be38d7f533c">DocuBox</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="" site_id="cd5c5c90-8d16-11e9-b2ae-334cebea47fb">Fightbox</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="" site_id="e18186f0-8d16-11e9-b2ae-334cebea47fb">FastandfunBox</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="EroXHD.nl" site_id="eef09310-70c6-11e9-a762-3be38d7f533c">Erox HD</channel>
+  <channel site="horizon.tv" lang="en" xmltv_id="360TuneBox.nl" site_id="10200">360 TuneBox HD</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="e06e94e0-700d-11e9-a762-3be38d7f533c">Aljazeera</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="StingrayClassica.ca" site_id="102">Stingray Classica D</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="StingrayiConcerts.ca" site_id="211">Stingray iConcerts</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RFMTV.fr" site_id="349">RFM TV</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="M6Music.fr" site_id="b54a6a50-1551-11ec-b223-bfea288fcea6">M6 Music</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="TiJi.fr" site_id="8e8e4e50-786d-11e9-b5ca-f345a2ed0fbe">Tiji</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="W9.fr" site_id="6841cab0-8097-11e9-b5ca-f345a2ed0fbe">W9</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="6ter.fr" site_id="6640e8b0-2904-11eb-953f-eb0eedf1f375">6ter</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="CanalJ.fr" site_id="c8ddc910-786c-11e9-b5ca-f345a2ed0fbe">Canal J</channel>
+  <channel site="tv.post.lu" lang="pt" xmltv_id="" site_id="d5b7a2a0-977d-11eb-b8dc-7949c519f41d">Canal 11 International</channel>
+  <channel site="tv.post.lu" lang="pt" xmltv_id="ABolaTV.pt" site_id="979a5700-977e-11eb-b8dc-7949c519f41d">A Bola TV</channel>
+  <channel site="tv.post.lu" lang="pt" xmltv_id="PortoCanal.pt" site_id="4daf7530-977e-11eb-b8dc-7949c519f41d">Porto Canal</channel>
+  <channel site="tv.post.lu" lang="pt" xmltv_id="SICNoticias.pt" site_id="fa2b61e0-89af-11e9-b2ae-334cebea47fb">SIC Noticiás</channel>
+  <channel site="tv.post.lu" lang="pt" xmltv_id="RTPInternacional.pt" site_id="b5358a40-8098-11e9-b5ca-f345a2ed0fbe">RTP Internacional</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="FUELTV.at" site_id="ab94c0b0-a8bd-11eb-ac67-1be2f9b33a4c">Fuel TV</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="" site_id="586995b0-0ae3-11ea-934c-4323fc36d546">TravelXP</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="" site_id="1bf0ee80-7006-11e9-a762-3be38d7f533c">Ric TV</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="" site_id="dddccf60-8dba-11e9-ac99-079f5aa46735">Fix&amp;Foxi TV</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="France24French.fr" site_id="be922070-8099-11e9-b5ca-f345a2ed0fbe">France 24 (FR)</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="TheIsraeliNetwork.il" site_id="9030c520-836d-11e9-a0f7-b16899773165">The Israeli Network</channel>
+  <channel site="tv.post.lu" lang="it" xmltv_id="MediasetItalia.it" site_id="bc52db70-9451-11ea-ab5f-f305cd6d02f2">Mediaset Italia</channel>
+  <channel site="tv.mail.ru" lang="ru" xmltv_id="GulliGirl.ru" site_id="1326">Gulli Girl</channel>
+  <channel site="tv.mail.ru" lang="ru" xmltv_id="TiJi.ru" site_id="1354">TiJi</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="SICInternacional.pt" site_id="384">SIC Internacional</channel>
+  <channel site="meo.pt" lang="pt" xmltv_id="Canal180.pt" site_id="C180">CANAL 180</channel>
+  <channel site="meo.pt" lang="pt" xmltv_id="CMTV.pt" site_id="CMTV">CMTV</channel>
+  <channel site="sat.tv" lang="ar" xmltv_id="RotanaKhalijia.sa" site_id="1#38#روتانا خليجية">روتانا خليجية</channel>
+  <channel site="shahid.mbc.net" lang="ar" xmltv_id="AsharqNews.sa" site_id="862837">الشرق</channel>
+  <channel site="shahid.mbc.net" lang="ar" xmltv_id="AlHadath.sa" site_id="387288">الحدث</channel>
+  <channel site="shahid.mbc.net" lang="ar" xmltv_id="Alarabiya.ae" site_id="387286">العربية</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="AlArabyTV.qa" site_id="64257#16224">Alaraby Network</channel>
+  <channel site="artonline.tv" lang="ar" xmltv_id="ARTAflam1.sa" site_id="#">افلام 1</channel>
+  <channel site="artonline.tv" lang="ar" xmltv_id="ARTAflam2.sa" site_id="#Aflam2">افلام 2</channel>
+  <channel site="artonline.tv" lang="ar" xmltv_id="ARTCinema.sa" site_id="#Cinema">سينما</channel>
+  <channel site="artonline.tv" lang="ar" xmltv_id="ARTHekayat.sa" site_id="#Hekayat">حكايات</channel>
+  <channel site="artonline.tv" lang="ar" xmltv_id="ARTHekayat2.sa" site_id="#Hekayat2">حكايات 2</channel>
+  <channel site="m.tv.sms.cz" lang="cs" xmltv_id="Polonia1.pl" site_id="Polonia+1">Polonia 1</channel>
+  <channel site="m.tv.sms.cz" lang="cs" xmltv_id="WaterPlanet.pl" site_id="Water+Planet">Water Planet</channel>
+  <channel site="m.tv.sms.cz" lang="cs" xmltv_id="" site_id="Tele5">Tele5</channel>
+  <channel site="m.tv.sms.cz" lang="cs" xmltv_id="NovelaTV.pl" site_id="Novela+tv">Novela tv</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="SkyNews.uk" site_id="155">Sky News HD</channel>
+  <channel site="dens.tv" lang="id" xmltv_id="DIM.ua" site_id="132">DIM TV</channel>
+  <channel site="dens.tv" lang="id" xmltv_id="FREEDOM.ua" site_id="104">FREEDOM</channel>
+  <channel site="startimestv.com" lang="en" xmltv_id="STWorldFootball.cn" site_id="649">ST WORLD FOOTBALL HD</channel>
+  <channel site="startimestv.com" lang="en" xmltv_id="STSportsFocus.cn" site_id="266">ST SPORTS FOCUS</channel>
+  <channel site="startimestv.com" lang="en" xmltv_id="STSportsLife.cn" site_id="443">ST SPORTS LIFE</channel>
+  <channel site="startimestv.com" lang="en" xmltv_id="STSportsPremium.cn" site_id="302">ST SPORTS PREMIUM</channel>
+  <channel site="startimestv.com" lang="en" xmltv_id="" site_id="1031981242">ST SPORTS ARENA HD</channel>
+  <channel site="startimestv.com" lang="en" xmltv_id="STSinoDrama.cn" site_id="456">ST SINO DRAMA</channel>
+  <channel site="startimestv.com" lang="en" xmltv_id="STKungfu.cn" site_id="455">ST KUNGFU</channel>
+  <channel site="melita.com" lang="it" xmltv_id="TGCom24.it" site_id="8f5204cc-d20e-4f8f-a463-b9f6a50adf1e">TGCOM 24</channel>
+  <channel site="tv.magenta.at" lang="de" xmltv_id="123tv.de" site_id="206966312266">123.tv</channel>
+  <channel site="tv.magenta.at" lang="de" xmltv_id="BibelTVHD.de" site_id="206965288371">Bibel TV HD</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DeutschesMusikFernsehen.de" site_id="121">Deutsches Musik Fernsehen</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="Hamburg1.de" site_id="244">Hamburg 1</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="HauptstadtTV.de" site_id="3284">HAUPTSTADT.TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HopeChannelGerman.de" site_id="204">Hope TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HSE.de" site_id="207">HSE</channel>
+  <channel site="tv.magenta.at" lang="de" xmltv_id="HSEExtraHD.de" site_id="206966824118">HSE Extra HD</channel>
+  <channel site="tv.magenta.at" lang="de" xmltv_id="HSETrend.de" site_id="206967336020">HSE Trend</channel>
+  <channel site="tv.magenta.at" lang="de" xmltv_id="kabeleins.de" site_id="206968871991">Kabel Eins</channel>
+  <channel site="tv.magenta.at" lang="de" xmltv_id="kabeleinsDoku.de" site_id="206968872074">Kabel Eins Doku</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="LTV.de" site_id="578">L-TV</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="N24Doku.de" site_id="553">N24 Doku</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="ProSieben.de" site_id="374">ProSieben</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="ProSiebenMaxx.de" site_id="396">ProSieben MAXX</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="QVC.de" site_id="446">QVC</channel>
+  <channel site="tv.magenta.at" lang="de" xmltv_id="" site_id="206967847966">QVC 2 HD</channel>
+  <channel site="tv.magenta.at" lang="de" xmltv_id="QVCStyle.de" site_id="206966312277">QVC Style</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="RheinMainTV.de" site_id="2966">Rhein-Main TV</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="RNF.de" site_id="246">RNF</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="SachsenFernsehenChemnitz.de" site_id="2612">Chemnitz Fernsehen</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="SachsenFernsehenDresden.de" site_id="2611">Dresden Fernsehen</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="SachsenFernsehenLeipzig.de" site_id="3179">Leipzig Fernsehen</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="SAT1Gold.de" site_id="338">SAT.1 GOLD</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="SAT1.de" site_id="381">SAT.1</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="sixx.de" site_id="380">sixx</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="SonnenklarTV.de" site_id="486">sonnenklar.TV</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="Studio47.de" site_id="2616">Studio 47</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="TELE5.de" site_id="48">TELE 5</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="TLC.de" site_id="383">TLC</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="TVBerlin.de" site_id="599">tv.berlin</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="WELT.de" site_id="375">WELT</channel>
+  <channel site="web.magentatv.de" lang="de" xmltv_id="WettercomTV.de" site_id="571">wetter.com TV</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="NET5.nl" site_id="net5">NET 5</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="Veronica.nl" site_id="veronica">Veronica</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="SBS6.nl" site_id="sbs6">SBS 6</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="FolxMusicTelevision.de" site_id="180">folx.tv</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="" site_id="6a8abcd0-30af-11ec-9c25-91f1005a0ace">Museum TV</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="MyZenTV.fr" site_id="3d4e54b0-8d29-11e9-ac99-079f5aa46735">MyZen TV</channel>
 </channels>
