@@ -77,7 +77,6 @@
   <channel site="startimestv.com" lang="en" xmltv_id="STSportsFocus.cn" site_id="266">ST SPORTS FOCUS</channel>
   <channel site="startimestv.com" lang="en" xmltv_id="STSportsLife.cn" site_id="443">ST SPORTS LIFE</channel>
   <channel site="startimestv.com" lang="en" xmltv_id="STSportsPremium.cn" site_id="302">ST SPORTS PREMIUM</channel>
-  <channel site="startimestv.com" lang="en" xmltv_id="" site_id="1031981242">ST SPORTS ARENA HD</channel>
   <channel site="startimestv.com" lang="en" xmltv_id="STSinoDrama.cn" site_id="456">ST SINO DRAMA</channel>
   <channel site="startimestv.com" lang="en" xmltv_id="STKungfu.cn" site_id="455">ST KUNGFU</channel>
   <channel site="melita.com" lang="it" xmltv_id="TGCom24.it" site_id="8f5204cc-d20e-4f8f-a463-b9f6a50adf1e">TGCOM 24</channel>
@@ -97,7 +96,6 @@
   <channel site="web.magentatv.de" lang="de" xmltv_id="ProSieben.de" site_id="374">ProSieben</channel>
   <channel site="web.magentatv.de" lang="de" xmltv_id="ProSiebenMaxx.de" site_id="396">ProSieben MAXX</channel>
   <channel site="web.magentatv.de" lang="de" xmltv_id="QVC.de" site_id="446">QVC</channel>
-  <channel site="tv.magenta.at" lang="de" xmltv_id="" site_id="206967847966">QVC 2 HD</channel>
   <channel site="tv.magenta.at" lang="de" xmltv_id="QVCStyle.de" site_id="206966312277">QVC Style</channel>
   <channel site="web.magentatv.de" lang="de" xmltv_id="RheinMainTV.de" site_id="2966">Rhein-Main TV</channel>
   <channel site="web.magentatv.de" lang="de" xmltv_id="RNF.de" site_id="246">RNF</channel>
