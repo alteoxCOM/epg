@@ -16,4 +16,12 @@
   <channel site="rotana.net" lang="ar" xmltv_id="RotanaMusic.sa" site_id="444">روتانا موسيقي</channel>
   <channel site="rotana.net" lang="ar" xmltv_id="RotanaAflam.sa" site_id="440">روتانا أفلام</channel>
   <channel site="magticom.ge" lang="ru" xmltv_id="RTVi.ru" site_id="30">RTVI</channel>
+  <channel site="horizon.tv" lang="de" xmltv_id="RTLSuper.de" site_id="10168">Super RTL</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="ntv.de" site_id="2f118d80-8096-11e9-b5ca-f345a2ed0fbe">n-tv</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="Nitro.de" site_id="144879c0-8094-11e9-b5ca-f345a2ed0fbe">NITRO</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="RTLup.de" site_id="1d77dae0-8094-11e9-b5ca-f345a2ed0fbe">RTLup</channel>
+  <channel site="tv.post.lu" lang="de" xmltv_id="TOGGOplus.de" site_id="e64ca000-8093-11e9-b5ca-f345a2ed0fbe">TOGGO Plus</channel>
+  <channel site="tv.post.lu" lang="en" xmltv_id="EuronewsGerman.fr" site_id="ac5ac6e0-809a-11e9-b5ca-f345a2ed0fbe">Euronews</channel>
+  <channel site="tv.post.lu" lang="fr" xmltv_id="EuronewsFrench.fr" site_id="c5cee250-2904-11eb-953f-eb0eedf1f375">Euronews FR</channel>
+  <channel site="bein.com" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="entertainment#27">27</channel>
 </channels>
