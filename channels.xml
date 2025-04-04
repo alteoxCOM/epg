@@ -66,10 +66,9 @@
   <channel site="artonline.tv" lang="ar" xmltv_id="ARTCinema.sa" site_id="#Cinema">سينما</channel>
   <channel site="artonline.tv" lang="ar" xmltv_id="ARTHekayat.sa" site_id="#Hekayat">حكايات</channel>
   <channel site="artonline.tv" lang="ar" xmltv_id="ARTHekayat2.sa" site_id="#Hekayat2">حكايات 2</channel>
-  <channel site="m.tv.sms.cz" lang="cs" xmltv_id="Polonia1.pl" site_id="Polonia+1">Polonia 1</channel>
-  <channel site="m.tv.sms.cz" lang="cs" xmltv_id="WaterPlanet.pl" site_id="Water+Planet">Water Planet</channel>
-  <channel site="m.tv.sms.cz" lang="cs" xmltv_id="" site_id="Tele5">Tele5</channel>
-  <channel site="m.tv.sms.cz" lang="cs" xmltv_id="NovelaTV.pl" site_id="Novela+tv">Novela tv</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="" site_id="polonia-1-328">Polonia 1</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="WaterPlanet.pl" site_id="water-planet-415">Water Planet</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="NovelaTV.pl" site_id="novela-tv-461">Novela tv</channel>
   <channel site="content.astro.com.my" lang="en" xmltv_id="SkyNews.uk" site_id="155">Sky News HD</channel>
   <channel site="dens.tv" lang="id" xmltv_id="DIM.ua" site_id="132">DIM TV</channel>
   <channel site="dens.tv" lang="id" xmltv_id="FREEDOM.ua" site_id="104">FREEDOM</channel>
@@ -129,4 +128,6 @@
   <channel site="tv.blue.ch" lang="de" xmltv_id="FixFoxi.de" site_id="1792">Fix &amp; Foxi TV</channel>
   <channel site="meo.pt" lang="pt" xmltv_id="Canal11.pt" site_id="C11">11</channel>
   <channel site="pickx.be" lang="fr" xmltv_id="MuseumTVFrench.fr" site_id="UID2320">Museum TV</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="Tele5.pl" site_id="tele-5-352">Tele 5</channel>
+  
 </channels>
