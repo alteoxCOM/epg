@@ -17,6 +17,7 @@ RUN npm install
 # Setup cron
 RUN npm run grab --- --channels=channels.xml
 RUN sed -i -E 's#(http[s]?://[^ \"]+(\.(jpg|jpeg|png|webp|gif|svg|tif|tiff|apng|avif)))#https://thumbor.alteox.app/\1#g' guide.xml
+RUN sed -i -E 's|(http[s]?://images\.media-press\.cloud[^ <\"]+)|https://thumbor.alteox.app/\1|g' guide.xml
 RUN echo "*/5 * * * * cd /app && npm run grab --- --channels=channels.xml && sed -i -E 's#(http[s]?://[^ \"]+(\.(jpg|jpeg|png|webp|gif|svg|tif|tiff|apng|avif)))#https://thumbor.alteox.app/\\\1#g' guide.xml && sed -i -E 's|(http[s]?://images\.media-press\.cloud[^ <\"]+)|https://thumbor.alteox.app/\\\1|g' guide.xml" > /tmp/grab-cron
 
 # Apply cron job
