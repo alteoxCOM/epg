@@ -16,12 +16,21 @@ RUN npm install
 
 # Setup cron
 RUN npm run grab --- --channels=channels.xml
-RUN sed -i -E 's#(http[s]?://[^ \"]+(\.(jpg|jpeg|png|webp|gif|svg|tif|tiff|apng|avif)))#https://thumbor.alteox.app/unsafe/\1#g' guide.xml
-RUN sed -i -E 's|(http[s]?://images\.media-press\.cloud[^ <\"]+)|https://thumbor.alteox.app/unsafe/\1|g' guide.xml
-RUN echo "*/5 * * * * cd /app && npm run grab --- --channels=channels.xml && sed -i -E 's#(http[s]?://[^ \"]+(\.(jpg|jpeg|png|webp|gif|svg|tif|tiff|apng|avif)))#https://thumbor.alteox.app/unsafe/\\\1#g' guide.xml && sed -i -E 's|(http[s]?://images\.media-press\.cloud[^ <\"]+)|https://thumbor.alteox.app/unsafe/\\\1|g' guide.xml" > /tmp/grab-cron
+# Rewrite URLs with query parameters but skip those already routed through Thumbor
+
+RUN perl -pe 's#(?<!thumbor\.alteox\.app/unsafe/)(http[s]?://[^ ?\"'"'"']+\.(jpg|jpeg|png|webp|gif|svg|tif|tiff|apng|avif))\?([^ \"'"'"']+)#https://thumbor.alteox.app/unsafe/\1%3F\3#g' -i guide.xml
+# Rewrite plain URLs without query params (also skip if already rewritten)
+RUN sed -i -E '/thumbor\.alteox\.app\/unsafe/!s#(http[s]?://[^ ?\"'"'"']+\.(jpg|jpeg|png|webp|gif|svg|tif|tiff|apng|avif))#https://thumbor.alteox.app/unsafe/\1#g' guide.xml
+
+RUN perl -pe 's#(?<!thumbor\.alteox\.app/unsafe/)(http[s]?://images\.media-press\.cloud[^ ?\"'"'"']+)\?([^ \"'"'"']+)#https://thumbor.alteox.app/unsafe/\1%3F\2#g' -i guide.xml
+# Rewrite plain URLs without query params (also skip if already rewritten)
+RUN perl -pe 's#(?<!thumbor\.alteox\.app/unsafe/)(https?://images\.media-press\.cloud[^ \"'"'"']+)#https://thumbor.alteox.app/unsafe/\1#g' -i guide.xml
+
+
+RUN echo "*/10 * * * * /app/cron.sh" > /tmp/cron-file
 
 # Apply cron job
-RUN crontab /tmp/grab-cron
+RUN crontab /tmp/cron-file
 
 # Expose the port
 EXPOSE 3000
