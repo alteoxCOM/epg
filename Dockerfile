@@ -27,7 +27,7 @@ RUN perl -pe 's#(?<!thumbor\.alteox\.app/unsafe/)(http[s]?://images\.media-press
 RUN perl -pe 's#(?<!thumbor\.alteox\.app/unsafe/)(https?://images\.media-press\.cloud[^ \"'"'"']+)#https://thumbor.alteox.app/unsafe/\1#g' -i guide.xml
 
 
-RUN echo "*/10 * * * * /app/cron.sh" > /tmp/cron-file
+RUN echo "0 0,12 * * * /app/cron.sh" > /tmp/cron-file
 
 # Apply cron job
 RUN crontab /tmp/cron-file
