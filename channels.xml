@@ -28,7 +28,7 @@
   <channel site="plex.tv" lang="es" xmltv_id="EuronewsSpanish.fr" site_id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d">Euronews Español</channel>
   <channel site="plex.tv" lang="pt" xmltv_id="EuronewsPortuguese.fr" site_id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9">Euronews Portuguese</channel>
   <channel site="tv.blue.ch" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="639">TVE Internacional</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="24Horas.es" site_id="71">Canal 24 Horas</channel>
+  <channel site="tv.post.lu" lang="es" xmltv_id="24HorasInternacional.es" site_id="9daa5180-8098-11e9-b5ca-f345a2ed0fbe">Canal 24 Horas</channel>
   <channel site="gatotv.com" lang="es" xmltv_id="Clan.es" site_id="clan_tve">Clan TVE</channel>
   <channel site="raiplay.it" lang="it" xmltv_id="RaiNews24.it" site_id="rai-news-24">RAI NEWS 24</channel>
   <channel site="melita.com" lang="en" xmltv_id="ducktv.sk" site_id="aeb3011d-9106-4621-b5e8-693dec45f33e">Duck TV</channel>
@@ -66,7 +66,7 @@
   <channel site="artonline.tv" lang="ar" xmltv_id="ARTCinema.sa" site_id="#Cinema">سينما</channel>
   <channel site="artonline.tv" lang="ar" xmltv_id="ARTHekayat.sa" site_id="#Hekayat">حكايات</channel>
   <channel site="artonline.tv" lang="ar" xmltv_id="ARTHekayat2.sa" site_id="#Hekayat2">حكايات 2</channel>
-  <channel site="programtv.onet.pl" lang="pl" xmltv_id="" site_id="polonia-1-328">Polonia 1</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="polonia1.pl" site_id="polonia-1-328">Polonia 1</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="WaterPlanet.pl" site_id="water-planet-415">Water Planet</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="NovelaTV.pl" site_id="novela-tv-461">Novela tv</channel>
   <channel site="content.astro.com.my" lang="en" xmltv_id="SkyNews.uk" site_id="155">Sky News HD</channel>
