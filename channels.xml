@@ -56,7 +56,7 @@
   <channel site="tv.blue.ch" lang="pt" xmltv_id="SICInternacional.pt" site_id="384">SIC Internacional</channel>
   <channel site="meo.pt" lang="pt" xmltv_id="Canal180.pt" site_id="C180">CANAL 180</channel>
   <channel site="meo.pt" lang="pt" xmltv_id="CMTV.pt" site_id="CMTV">CMTV</channel>
-  <channel site="sat.tv" lang="ar" xmltv_id="RotanaKhalijia.sa" site_id="1#38#روتانا خليجية">روتانا خليجية</channel>
+  <channel site="rotana.net" lang="en" xmltv_id="RotanaKhalijia.sa" site_id="435">Rotana Khalijea HD</channel>
   <channel site="shahid.mbc.net" lang="ar" xmltv_id="AsharqNews.sa" site_id="862837">الشرق</channel>
   <channel site="shahid.mbc.net" lang="ar" xmltv_id="AlHadath.sa" site_id="387288">الحدث</channel>
   <channel site="shahid.mbc.net" lang="ar" xmltv_id="Alarabiya.ae" site_id="387286">العربية</channel>
